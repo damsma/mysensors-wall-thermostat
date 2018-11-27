@@ -3,7 +3,7 @@ MySensors OLED wall thermostat<br><br>
 
 Wiring diagram:<br><br>
 
-OLED:<br>
+OLED 1.5", SPI/I2C interfaces, 16-bit grey level:<br>
 VCC		->	5V<br>
 GND		->  GND<br>
 DIN		->	D3<br>
