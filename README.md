@@ -1,33 +1,33 @@
 # mysensors-wall-thermostat
-MySensors OLED wall thermostat
+MySensors OLED wall thermostat<br><br>
 
-Wiring diagram:
+Wiring diagram:<br><br>
 
-OLED:
-VCC		->	5V
-GND		->  GND
-DIN		->	D3
-CLK     ->	D2
-CS      ->	D4
-DC      ->	D5
-RST     ->	D6
+OLED:<br>
+VCC		->	5V<br>
+GND		->  GND<br>
+DIN		->	D3<br>
+CLK     ->	D2<br>
+CS      ->	D4<br>
+DC      ->	D5<br>
+RST     ->	D6<br><br>
 
-SHT-30:
-VIN     ->	3.3V
-GND     ->	GND
-SCL     ->	D21
-SAA     ->	D20
+SHT-30:<br>
+VIN     ->	3.3V<br>
+GND     ->	GND<br>
+SCL     ->	D21<br>
+SAA     ->	D20<br><br>
 
-W5100:
-V+5     ->	5V
-GND     ->	GND
-NSS     ->	D10
-MO      ->	D51
-SOK     ->	D52
-MI      ->	D50
+W5100:<br>
+V+5     ->	5V<br>
+GND     ->	GND<br>
+NSS     ->	D10<br>
+MO      ->	D51<br>
+SOK     ->	D52<br>
+MI      ->	D50<br><br>
 
-Buttons:
-UP		->	D17
-DOWN	->	D15
-MENU	->	D14
-OK		->	D16
+Buttons:<br>
+UP		->	D17<br>
+DOWN	->	D15<br>
+MENU	->	D14<br>
+OK		->	D16<br>
