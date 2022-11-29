@@ -1,7 +1,20 @@
 # mysensors-wall-thermostat
-MySensors OLED wall thermostat<br><br>
+more complex description coming soon<br><br>
 
-Wiring diagram:<br><br>
+
+<h2>Screenshots</h2>
+<h3>Home Assistant</h3>
+
+![grafik](https://user-images.githubusercontent.com/45398732/204623008-7a077056-5cc6-44b4-a956-9ec1a31a5fc1.png)
+
+<h3>Domoticz</h3>
+
+![grafik](https://user-images.githubusercontent.com/45398732/204621900-5fa87f26-3f23-46d6-b87d-4fd7a6a75c5f.png)
+![grafik](https://user-images.githubusercontent.com/45398732/204622015-3d09dd9c-9d6c-4e16-b8c0-beaf6bfd64e9.png)
+
+
+
+<h2>Wiring diagram</h2>
 
 OLED 1.5", SPI/I2C interfaces, 16-bit grey level:<br>
 VCC		->	5V<br>
