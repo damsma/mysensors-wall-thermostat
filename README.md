@@ -38,7 +38,7 @@ Tools/material you also may need:<br>
 <a href="https://allegro.pl/oferta/opalarka-elektryczna-1750w-600-c-230v-2-stopniowa-black-decker-kx1650-14555491171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Heat gun</a><br>
 <a href="https://allegro.pl/oferta/stacja-lutownicza-wep-937d-60w-200-c-480-c-10174385348?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Soldering station</a><br>
 <a href="https://allegro.pl/oferta/cyna-lutowie-sn60pb40-z-topnikiem-16g-1-mm-cynel-14251521813?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Tin-lead</a><br>
-<a href="https://allegro.pl/oferta/switch-poe-8x-poe-2x-uplink-10-100mbps-120w-poe-do-kamer-poe-14764379171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#>PoE Switch</a><br>
+<a href="https://allegro.pl/oferta/switch-poe-8x-poe-2x-uplink-10-100mbps-120w-poe-do-kamer-poe-14764379171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">PoE Switch</a><br>
 
 <h2>Screenshots</h2>
 <h3>Home Assistant</h3>
