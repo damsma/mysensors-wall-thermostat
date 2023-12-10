@@ -10,24 +10,33 @@ You can support this project by buing from this affiliate links
 <h3>Allegro</h3>
 <a href="https://allegro.pl/oferta/oled-1-5-spi-i2c-16-bit-grey-level-3-3v-5v-7218185066?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">OLED Display</a><br>
 <a href="https://allegro.pl/oferta/398-modul-mega2560-pro-ch340g-atmega2560-avr-zgodny-z-arduino-ide-14535527629?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Mega2560 PRO</a><br>
+<a href="https://allegro.pl/oferta/modul-ethernet-w5500-arduino-stm32-9215973758?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">W5500 - i am using the red one, but this one is working as well.</a><br>
 <a href="https://allegro.pl/oferta/sht31-czujnik-temperatury-wilgotnosci-13274372477?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">SHT-31</a><br>
 <a href="https://allegro.pl/oferta/czujnik-temperatury-ds18b20-5m-wodoodpor-termometr-13757503668?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">DS18B20</a><br>
 <a href="https://allegro.pl/oferta/zlacze-jst-sm-3-pin-2-54mm-konektor-kostka-zlaczka-12712195780?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">3-Pin JST</a><br>
 <a href="https://allegro.pl/oferta/40x10cm-przewody-zworki-arduino-zensko-zenskie-10680377620?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">10cm Jumper Wires F/F</a><br>
 <a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40cm Jumper Wires F/F</a><br>
-<a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">YTDY 10x0,5</a><br>
+<a href="https://allegro.pl/oferta/przewod-kabel-instalacyjny-ytdy-10x0-5mm-1m-14102511141?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">YTDY 10x0,5</a><br>
+<a href="https://allegro.pl/oferta/zaciskarka-praska-konektorow-samochodowych-molex-jst-amp-sn-01bm-0-08-0-5-14824220619?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">SN-01BM</a><br>
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-16-2-szt-2060-2-11597131052?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-16</a><br>
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-03-5-szt-0102-5-11597097506?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-03</a><br>
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-04-5-szt-0103-5-11597106806?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-04</a><br>
-<a href="https://allegro.pl/oferta/modul-ethernet-w5500-arduino-stm32-9215973758?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">W5500 - i am using the red one, but this one is working as well.</a><br>
 <a href="https://allegro.pl/oferta/tasma-izolacyjna-tesa-mocna-odporna-parciana-materialowa-czarna-15m-10559057375?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Black cloth tape</a><br>
-<a href="https://allegro.pl/oferta/pistolet-klejarka-do-kleju-78w-na-cieplo-klej-13141685226?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue gun</a><br>
-<a href="https://allegro.pl/oferta/klej-do-pistoletu-na-cieplo-10st-7mm-przezroczysty-14648241742?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue</a><br>
+<a href="https://allegro.pl/oferta/rura-termokurczliwa-z-klejem-rpk-40-12-1m-czarny-12563045474?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40mm heat shrink</a><br>
+<a href="https://allegro.pl/oferta/rurka-termokurczliwa-czarna-fi-5mm-1-metr-14067184453?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">5mm heat shrink</a><br>
+<a href="https://allegro.pl/oferta/rurka-rurki-koszulki-termokurczliwe-3mm-czarne-1m-14176099509?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">3mm heat shrink</a><br>
 Smoked Plexiglass<br>
 Vimar Eikon Evo 21654.01<br>
 Vimar Eikon Evo 20066<br>
 Vimar Eikon Evo 21614<br>
 Vimar Eikon Evo 20042<br>
+<br>
+Tools/material you also may need:<br>
+<a href="https://allegro.pl/oferta/pistolet-klejarka-do-kleju-78w-na-cieplo-klej-13141685226?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue gun</a><br>
+<a href="https://allegro.pl/oferta/klej-do-pistoletu-na-cieplo-10st-7mm-przezroczysty-14648241742?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue</a><br>
+<a href="https://allegro.pl/oferta/opalarka-elektryczna-1750w-600-c-230v-2-stopniowa-black-decker-kx1650-14555491171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Heat gun</a><br>
+<a href="https://allegro.pl/oferta/stacja-lutownicza-wep-937d-60w-200-c-480-c-10174385348?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Soldering station</a><br>
+<a href="https://allegro.pl/oferta/cyna-lutowie-sn60pb40-z-topnikiem-16g-1-mm-cynel-14251521813?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Tin-lead</a><br>
 
 <h2>Screenshots</h2>
 <h3>Home Assistant</h3>
