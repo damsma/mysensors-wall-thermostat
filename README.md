@@ -1,4 +1,7 @@
 # mysensors-wall-thermostat
+![termostat](https://github.com/damsma/mysensors-wall-thermostat/assets/45398732/1fbd411e-03d9-40ac-9807-f5e8a61b431c)
+
+
 more complex description coming soon<br><br>
 
 
