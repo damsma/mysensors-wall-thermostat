@@ -13,6 +13,7 @@ You can support this project by buing from this affiliate links
 <a href="https://allegro.pl/oferta/modul-ethernet-w5500-arduino-stm32-9215973758?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">W5500 - i am using the red one, but this one is working as well.</a><br>
 <a href="https://allegro.pl/oferta/sht31-czujnik-temperatury-wilgotnosci-13274372477?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">SHT-31</a><br>
 <a href="https://allegro.pl/oferta/czujnik-temperatury-ds18b20-5m-wodoodpor-termometr-13757503668?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">DS18B20</a><br>
+<a href="https://allegro.pl/oferta/microconnect-poe-splitter-5v-2-4a-13482549617?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">5V POE Splitter Micro USB</a><br>
 <a href="https://allegro.pl/oferta/zlacze-jst-sm-3-pin-2-54mm-konektor-kostka-zlaczka-12712195780?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">3-Pin JST</a><br>
 <a href="https://allegro.pl/oferta/40x10cm-przewody-zworki-arduino-zensko-zenskie-10680377620?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">10cm Jumper Wires F/F</a><br>
 <a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40cm Jumper Wires F/F</a><br>
@@ -37,6 +38,7 @@ Tools/material you also may need:<br>
 <a href="https://allegro.pl/oferta/opalarka-elektryczna-1750w-600-c-230v-2-stopniowa-black-decker-kx1650-14555491171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Heat gun</a><br>
 <a href="https://allegro.pl/oferta/stacja-lutownicza-wep-937d-60w-200-c-480-c-10174385348?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Soldering station</a><br>
 <a href="https://allegro.pl/oferta/cyna-lutowie-sn60pb40-z-topnikiem-16g-1-mm-cynel-14251521813?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Tin-lead</a><br>
+<a href="https://allegro.pl/oferta/switch-poe-8x-poe-2x-uplink-10-100mbps-120w-poe-do-kamer-poe-14764379171?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#>PoE Switch</a><br>
 
 <h2>Screenshots</h2>
 <h3>Home Assistant</h3>
