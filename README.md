@@ -22,6 +22,10 @@ You can support this project by buing from this affiliate links
 <a href="https://allegro.pl/oferta/pistolet-klejarka-do-kleju-78w-na-cieplo-klej-13141685226?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue gun</a><br>
 <a href="https://allegro.pl/oferta/klej-do-pistoletu-na-cieplo-10st-7mm-przezroczysty-14648241742?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue</a><br>
 Smoked Plexiglass<br>
+Vimar Eikon Evo 21654.01<br>
+Vimar Eikon Evo 20066<br>
+Vimar Eikon Evo 21614<br>
+Vimar Eikon Evo 20042<br>
 
 <h2>Screenshots</h2>
 <h3>Home Assistant</h3>
