@@ -4,6 +4,24 @@
 
 more complex description coming soon<br><br>
 
+<h2>Parts list</h2>
+You can support this project by buing from this affiliate links
+
+<h3>Allegro</h3>
+<a href="https://allegro.pl/oferta/oled-1-5-spi-i2c-16-bit-grey-level-3-3v-5v-7218185066?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">OLED Display</a><br>
+<a href="https://allegro.pl/oferta/398-modul-mega2560-pro-ch340g-atmega2560-avr-zgodny-z-arduino-ide-14535527629?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Mega2560 PRO</a><br>
+<a href="https://allegro.pl/oferta/zlacze-jst-sm-3-pin-2-54mm-konektor-kostka-zlaczka-12712195780?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">3-Pin JST</a><br>
+<a href="https://allegro.pl/oferta/40x10cm-przewody-zworki-arduino-zensko-zenskie-10680377620?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">10cm Jumper Wires F/F</a><br>
+<a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40cm Jumper Wires F/F</a><br>
+<a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">YTDY 10x0,5</a><br>
+<a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-16-2-szt-2060-2-11597131052?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-16</a><br>
+<a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-03-5-szt-0102-5-11597097506?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-03</a><br>
+<a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-04-5-szt-0103-5-11597106806?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-04</a><br>
+<a href="https://allegro.pl/oferta/modul-ethernet-w5500-arduino-stm32-9215973758?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">W5500 - i am using the red one, but this one is working as well.</a><br>
+<a href="https://allegro.pl/oferta/tasma-izolacyjna-tesa-mocna-odporna-parciana-materialowa-czarna-15m-10559057375?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Black cloth tape</a><br>
+<a href="https://allegro.pl/oferta/pistolet-klejarka-do-kleju-78w-na-cieplo-klej-13141685226?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue gun</a><br>
+<a href="https://allegro.pl/oferta/klej-do-pistoletu-na-cieplo-10st-7mm-przezroczysty-14648241742?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Hot glue</a><br>
+Smoked Plexiglass<br>
 
 <h2>Screenshots</h2>
 <h3>Home Assistant</h3>
