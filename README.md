@@ -10,6 +10,8 @@ You can support this project by buing from this affiliate links
 <h3>Allegro</h3>
 <a href="https://allegro.pl/oferta/oled-1-5-spi-i2c-16-bit-grey-level-3-3v-5v-7218185066?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">OLED Display</a><br>
 <a href="https://allegro.pl/oferta/398-modul-mega2560-pro-ch340g-atmega2560-avr-zgodny-z-arduino-ide-14535527629?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Mega2560 PRO</a><br>
+<a href="https://allegro.pl/oferta/sht31-czujnik-temperatury-wilgotnosci-13274372477?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">SHT-31</a><br>
+<a href="https://allegro.pl/oferta/czujnik-temperatury-ds18b20-5m-wodoodpor-termometr-13757503668?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">DS18B20</a><br>
 <a href="https://allegro.pl/oferta/zlacze-jst-sm-3-pin-2-54mm-konektor-kostka-zlaczka-12712195780?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">3-Pin JST</a><br>
 <a href="https://allegro.pl/oferta/40x10cm-przewody-zworki-arduino-zensko-zenskie-10680377620?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">10cm Jumper Wires F/F</a><br>
 <a href="https://allegro.pl/oferta/przewody-zensko-zenskie-40szt-30cm-kable-arduino-8428118016?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40cm Jumper Wires F/F</a><br>
