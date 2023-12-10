@@ -117,7 +117,7 @@ DeviceAddress tempDeviceAddress;
 //DS18b20
 
 // TEMP
-char cstr[1];
+char cstr[2];
 char buff[4];
 // TEMP
 
@@ -454,6 +454,8 @@ void showDefault() {
 }
 
 void showBig() {
+  cstr[2] = '\0';
+
   u8x8.noInverse();
   u8x8.setFont(u8x8_font_pressstart2p_f);
   
@@ -492,6 +494,8 @@ void showBig() {
 }
 
 void showSmall() {
+  cstr[2] = '\0';
+
   u8x8.setFont(u8x8_font_amstrad_cpc_extended_f);    
   u8x8.inverse();
   
