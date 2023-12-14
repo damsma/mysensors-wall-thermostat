@@ -22,6 +22,7 @@ You can support this project by buing from this affiliate links
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-16-2-szt-2060-2-11597131052?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-16</a><br>
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-03-5-szt-0102-5-11597097506?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-03</a><br>
 <a href="https://allegro.pl/oferta/gniazdo-na-goldpin-styki-bld-04-5-szt-0103-5-11597106806?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD-04</a><br>
+<a href="https://allegro.pl/oferta/piny-do-gniazd-bls-bld-2-54mm-25-szt-0113-25-11525185176?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Goldpin BLD 2,54mm</a><br>
 <a href="https://allegro.pl/oferta/tasma-izolacyjna-tesa-mocna-odporna-parciana-materialowa-czarna-15m-10559057375?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">Black cloth tape</a><br>
 <a href="https://allegro.pl/oferta/rura-termokurczliwa-z-klejem-rpk-40-12-1m-czarny-12563045474?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">40mm heat shrink</a><br>
 <a href="https://allegro.pl/oferta/rurka-termokurczliwa-czarna-fi-5mm-1-metr-14067184453?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=e6e5f411-eb7c-4e27-a007-f9e87bdd0fe4#">5mm heat shrink</a><br>
